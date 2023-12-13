@@ -1,0 +1,14 @@
+[
+  {
+    "_id": 1,
+    "_nombre": "pantalon",
+    "_precio": 45500,
+    "_stock": 14
+  },
+  {
+    "_id": 2,
+    "_nombre": "garbanzos",
+    "_precio": 3500,
+    "_stock": 33
+  }
+]
